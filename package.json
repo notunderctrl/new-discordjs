@@ -1,0 +1,16 @@
+{
+  "name": "new-discordjs",
+  "version": "1.0.1",
+  "description": "Setup Discord.js projects faster!",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "new-discordjs": "./index.js"
+  },
+  "author": "underctrl",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^9.2.7"
+  }
+}

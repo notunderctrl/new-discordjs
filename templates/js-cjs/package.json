@@ -1,0 +1,16 @@
+{
+  "name": "djs-starter-template",
+  "version": "0.0.1",
+  "description": "Discord.js starter template",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node ."
+  },
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "djs-commander": "^0.0.48",
+    "dotenv": "^16.1.4"
+  }
+}
