@@ -1,12 +1,22 @@
 {
   "name": "new-discordjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Setup Discord.js projects faster!",
   "main": "index.js",
   "type": "module",
   "bin": {
     "new-discordjs": "./index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/notunderctrl/new-discordjs"
+  },
+  "homepage": "https://github.com/notunderctrl/new-discordjs#readme",
+  "keywords": [
+    "discord.js",
+    "npx",
+    "command handler"
+  ],
   "author": "underctrl",
   "license": "ISC",
   "dependencies": {
